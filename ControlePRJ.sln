@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlePRJ", "ControlePRJ\ControlePRJ.csproj", "{A188CDEF-BEB4-458C-8876-561477E532BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Controle de Projeto", "Controle de Projeto\Controle de Projeto.vdproj", "{3671E29B-3BB7-4F7A-A83E-1FAD6FADB667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A188CDEF-BEB4-458C-8876-561477E532BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A188CDEF-BEB4-458C-8876-561477E532BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A188CDEF-BEB4-458C-8876-561477E532BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A188CDEF-BEB4-458C-8876-561477E532BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3671E29B-3BB7-4F7A-A83E-1FAD6FADB667}.Debug|Any CPU.ActiveCfg = Debug
+		{3671E29B-3BB7-4F7A-A83E-1FAD6FADB667}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
